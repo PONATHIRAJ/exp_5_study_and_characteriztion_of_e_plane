@@ -28,7 +28,7 @@ The junction causes the loads connected to its branches to appear **in series**,
 
 The two main-guide arms are symmetrical with respect to the auxiliary arm. If power is fed from the auxiliary arm it is distributed equally into arms 1 and 2 when they are terminated in equal loads. However, from the field configuration, the power flowing out of arm 1 is **180° out of phase** with that in arm 2. The E-plane tee therefore acts as a **subtractor (differencer)**.
 
-### Summary of behaviour
+### Summary of behaviour:
 
 | Feed point | Result |
 |---|---|
