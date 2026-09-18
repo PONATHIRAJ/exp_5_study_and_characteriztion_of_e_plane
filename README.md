@@ -60,7 +60,7 @@ The two main-guide arms are symmetrical with respect to the auxiliary arm. If po
 
 ---
 
-## Precautions
+## Precautions:
 
 * Check all connections before switching on the kit.
 * Keep all knobs at minimum before switching on the power supplies; the HT must be OFF while switching on the mains.
